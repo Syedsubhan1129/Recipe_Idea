@@ -3,7 +3,7 @@
 A responsive and visually engaging **Recipe Finder** web application built with **React** and **React Bootstrap**.  
 It helps busy professionals discover recipes based on available ingredients, with a clean UI and modern card layout.
 
-🔗 **Live Demo:** [your-deployment-link]
+🔗 **Live Demo:** [[your-deployment-link](https://syedsubhan1129.github.io/Recipe_Idea/)]
 
 ---
 
@@ -34,7 +34,7 @@ It helps busy professionals discover recipes based on available ingredients, wit
 ---
 
 ## 📁 Project Structure
-
+```
 recipe_finder/
 │
 ├── index.html # Main HTML file
@@ -50,6 +50,7 @@ recipe_finder/
 │ └── index.css # Base/global styles
 ├── README.md # Project documentation
 └── ... # Config and lock files
+```
 
 ---
 
